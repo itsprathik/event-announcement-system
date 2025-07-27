@@ -56,7 +56,7 @@ Create an event and check your inbox!
 🧑‍💻 Author
 
 Prathik P
-[LinkedIn](linkedin.com/in/prathik-p) | [GitHub](https://github.com/itsprathik)
+[LinkedIn](https://linkedin.com/in/prathik-p) | [GitHub](https://github.com/itsprathik)
 
 📝 License
 
