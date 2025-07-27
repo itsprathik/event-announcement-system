@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Tech Conference 2024",
+        "description": "Join us for the biggest tech conference of the year featuring keynote speakers, workshops, and networking opportunities. Learn about the latest trends in technology and connect with industry leaders.",
+        "date": "March 15, 2024"
+    },
+    {
+        "title": "Community Meetup",
+        "description": "Monthly community meetup where developers share their latest projects and discuss industry trends. A great opportunity to network and learn from peers.",
+        "date": "March 22, 2024"
+    },
+    {
+        "title": "Workshop: Modern Web Development",
+        "description": "Learn the latest web development techniques including React, Node.js, and modern CSS frameworks. Hands-on workshop with real-world examples.",
+        "date": "April 5, 2024"
+    },
+    {
+        "title": "Hackathon",
+        "description": "24-hour coding challenge where teams compete to build innovative solutions to real-world problems. Prizes and recognition for the best projects.",
+        "date": "April 12-13, 2024"
+    },
+    {
+        "title": "Career Fair",
+        "description": "Connect with top tech companies and find your next career opportunity. Bring your resume and portfolio to showcase your skills.",
+        "date": "April 20, 2024"
+    },
+    {
+        "title": "Open Source Day",
+        "description": "Contribute to open source projects and learn from experienced maintainers. Perfect for developers looking to give back to the community.",
+        "date": "May 1, 2024"
+    },
+    {
+        "title": "AI & Machine Learning Summit",
+        "description": "Explore the future of artificial intelligence and machine learning with expert speakers, demonstrations, and interactive sessions.",
+        "date": "May 10, 2024"
+    },
+    {
+        "title": "Startup Pitch Night",
+        "description": "Watch innovative startups pitch their ideas to investors and industry experts. Great networking opportunity for entrepreneurs.",
+        "date": "May 18, 2024"
+    }
+] 
