@@ -4,7 +4,7 @@ A simple serverless web app that lets users create events and subscribe for emai
 <!-- Optional: add screenshot if hosting somewhere -->
 🚀 Live Demo
 
-👉 Visit App on Amplify
+ Visit App on Amplify --> https://main.d2whu3snmwbduh.amplifyapp.com/
 
 🛠️ Features
 
