@@ -2,7 +2,9 @@
 A simple serverless web app that lets users create events and subscribe for email notifications. Built as a weekend cloud project to sharpen my AWS skills.
 
 <img width="1919" height="901" alt="image" src="https://github.com/user-attachments/assets/50baa333-cddc-4ac3-a49a-3e9e2ade5104" />
+
 <img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/316b56e8-07a3-4913-91af-9f68f5367947" />
+
 <img width="1918" height="894" alt="image" src="https://github.com/user-attachments/assets/c0808749-312e-47e9-a4b1-216658634551" />
 
 🚀 Live Demo
